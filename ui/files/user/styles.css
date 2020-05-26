@@ -16,42 +16,13 @@
   position:absolute;
   z-index:0;
 }
-#u158 {
+#u159 {
   border-width:0px;
   position:absolute;
   left:380px;
   top:164px;
   width:346px;
   height:190px;
-}
-#u159_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:173px;
-  height:30px;
-}
-#u159 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:173px;
-  height:30px;
-  display:flex;
-}
-#u159 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u159_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
 }
 #u160_img {
   border-width:0px;
@@ -64,7 +35,7 @@
 #u160 {
   border-width:0px;
   position:absolute;
-  left:173px;
+  left:0px;
   top:0px;
   width:173px;
   height:30px;
@@ -93,8 +64,8 @@
 #u161 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:30px;
+  left:173px;
+  top:0px;
   width:173px;
   height:30px;
   display:flex;
@@ -122,7 +93,7 @@
 #u162 {
   border-width:0px;
   position:absolute;
-  left:173px;
+  left:0px;
   top:30px;
   width:173px;
   height:30px;
@@ -151,8 +122,8 @@
 #u163 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:60px;
+  left:173px;
+  top:30px;
   width:173px;
   height:30px;
   display:flex;
@@ -180,7 +151,7 @@
 #u164 {
   border-width:0px;
   position:absolute;
-  left:173px;
+  left:0px;
   top:60px;
   width:173px;
   height:30px;
@@ -209,8 +180,8 @@
 #u165 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:90px;
+  left:173px;
+  top:60px;
   width:173px;
   height:30px;
   display:flex;
@@ -238,7 +209,7 @@
 #u166 {
   border-width:0px;
   position:absolute;
-  left:173px;
+  left:0px;
   top:90px;
   width:173px;
   height:30px;
@@ -262,15 +233,15 @@
   left:0px;
   top:0px;
   width:173px;
-  height:35px;
+  height:30px;
 }
 #u167 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:120px;
+  left:173px;
+  top:90px;
   width:173px;
-  height:35px;
+  height:30px;
   display:flex;
 }
 #u167 .text {
@@ -296,7 +267,7 @@
 #u168 {
   border-width:0px;
   position:absolute;
-  left:173px;
+  left:0px;
   top:120px;
   width:173px;
   height:35px;
@@ -325,8 +296,8 @@
 #u169 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:155px;
+  left:173px;
+  top:120px;
   width:173px;
   height:35px;
   display:flex;
@@ -354,7 +325,7 @@
 #u170 {
   border-width:0px;
   position:absolute;
-  left:173px;
+  left:0px;
   top:155px;
   width:173px;
   height:35px;
@@ -372,31 +343,22 @@
   word-wrap:break-word;
   text-transform:none;
 }
-#u171_div {
+#u171_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:40px;
-  background:inherit;
-  background-color:rgba(22, 155, 213, 1);
-  border:none;
-  border-radius:5px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:20px;
+  width:173px;
+  height:35px;
 }
 #u171 {
   border-width:0px;
   position:absolute;
-  left:380px;
-  top:392px;
-  width:140px;
-  height:40px;
+  left:173px;
+  top:155px;
+  width:173px;
+  height:35px;
   display:flex;
-  font-size:20px;
 }
 #u171 .text {
   position:absolute;
@@ -429,7 +391,7 @@
 #u172 {
   border-width:0px;
   position:absolute;
-  left:598px;
+  left:380px;
   top:392px;
   width:140px;
   height:40px;
@@ -444,6 +406,44 @@
   width:100%;
 }
 #u172_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u173_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:20px;
+}
+#u173 {
+  border-width:0px;
+  position:absolute;
+  left:598px;
+  top:392px;
+  width:140px;
+  height:40px;
+  display:flex;
+  font-size:20px;
+}
+#u173 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u173_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
